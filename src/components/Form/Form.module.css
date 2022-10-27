@@ -1,0 +1,24 @@
+.formMain {
+  margin-left: 15px;
+  border: 1px solid black;
+  padding: 10px;
+  width: 250px;
+}
+
+.formInput {
+  margin-bottom: 10px;
+}
+
+.btnForm {
+  margin-top: 10px;
+  border: transparent;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.btnForm:hover,
+.btnForm:active {
+  background-color: blue;
+  color: #fff;
+}
